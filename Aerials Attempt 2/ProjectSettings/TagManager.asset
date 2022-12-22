@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Weaponized
+  - Floor
+  - Vine
+  - hurtyhurty
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Player
+  - TheObstaculos
+  - TouchyTouchy
+  - Loader
+  - Psuedofloor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backdrops
+    uniqueID: 227115251
+    locked: 0
+  - name: Floors
+    uniqueID: 931240429
+    locked: 0
+  - name: Obstacles
+    uniqueID: 2202411987
+    locked: 0
+  - name: npcs
+    uniqueID: 4121783615
+    locked: 0
+  - name: Amita n Etc
+    uniqueID: 1313444743
+    locked: 0
+  - name: Foreground
+    uniqueID: 31243291
+    locked: 0
+  - name: UI
+    uniqueID: 3372567057
+    locked: 0

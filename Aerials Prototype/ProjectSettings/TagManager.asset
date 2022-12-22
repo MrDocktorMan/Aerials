@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Amita
+  - Wall
+  - Roof
+  - slope
+  - Token
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1599902547
+    locked: 0
+  - name: Objects
+    uniqueID: 1840867883
+    locked: 0
+  - name: NPCS
+    uniqueID: 2065277561
+    locked: 0
+  - name: Enemies
+    uniqueID: 4171554921
+    locked: 0
+  - name: Amita
+    uniqueID: 2525156455
+    locked: 0
+  - name: Foreground
+    uniqueID: 1898026387
+    locked: 0
+  - name: UI
+    uniqueID: 1903828283
+    locked: 0
